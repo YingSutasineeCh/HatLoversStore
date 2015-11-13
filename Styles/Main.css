@@ -1,0 +1,48 @@
+﻿
+section {
+    padding: 1em;
+}
+#gridview
+{
+    width: 500px;
+    float: left;
+    margin-top:10px;
+}
+#formview
+{
+    width: 500px;
+    margin-top: 50px;
+}
+#DetailsView1 {
+     margin-top: 10px;
+}
+.label
+{
+    float: left;
+    width: 137px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+.display
+{
+    margin-top: 2px;
+    margin-left: 120px;
+}
+.entry
+{
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+.error
+{
+    color: Green;
+    margin-top: 1em;        
+}
+h1{
+    color:#003399;
+}
+.label{
+    font-size:1em;
+    font-weight:bold;
+    margin:0;
+}

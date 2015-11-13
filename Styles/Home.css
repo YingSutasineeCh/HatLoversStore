@@ -1,0 +1,14 @@
+﻿.product {
+    float: left;
+    padding: 1em;
+}
+
+.product img {
+    height: 100px;
+    width: 100px;
+}
+#goto {
+    clear: both;
+}
+
+
